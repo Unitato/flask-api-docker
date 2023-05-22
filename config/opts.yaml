@@ -1,0 +1,7 @@
+skip: [mp4, avi]
+file_scheme: "{DATE}_{POSTID}"
+folder_scheme: '{REDDITOR}'
+limit: 300
+sort: top
+submitted: True
+no_dupes: True
